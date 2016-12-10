@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <circle stroke="#000000" id="svg_25" r="170.845291" cy="208.839321" cx="209.325962" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#007fff"/>
+  <text stroke="#000000" transform="matrix(4.007342338562012,0,0,1.9353569746017456,-262.57857793569565,-65.79651718214154) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_21" y="92" x="82" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff0000"/>
+  <polygon stroke="#000000" transform="rotate(0.000001697692937341344 200.11476135253906,192.1843260041793) " stroke-width="0" points="206.8665771484375,33.27365958690643 250.27053833007812,155.8459404706955 382.4391784667969,158.48978507518768 277.0956115722656,236.88750541210175 315.3764343261719,361.0937737226486 206.8665771484375,286.973992228508 98.35655212402344,361.0937737226486 136.63735961914062,236.88750541210175 31.293716430664062,158.48978507518768 163.46249389648438,155.8459404706955 206.8665771484375,33.27365958690643 250.27053833007812,155.8459404706955 " strokeWidth="0" strokecolor="#000000" fill="#ff0000" orient="point" r2="23.577013" r="58.942533" point="5" shape="star" id="svg_22" cy="70" cx="70"/>
+  <text stroke="#000000" transform="matrix(2.9999805617925137,0,0,5.446458734560515,-446.4224564992373,-636.4295449308304) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_24" y="165.87603" x="217.144956" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffff00">GM</text>
+ </g>
+</svg>
